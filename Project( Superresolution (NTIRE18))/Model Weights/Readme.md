@@ -1,0 +1,1 @@
+This directory contains the model weights utilized in our projects.
